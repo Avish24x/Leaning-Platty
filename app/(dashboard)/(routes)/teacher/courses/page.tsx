@@ -6,7 +6,7 @@ const CoursesPage = () => {
         <div className="p-6">
             <Link href="/teacher/create">
                <Button>
-                new course
+                New Course
                </Button>
             </Link>
         </div>
